@@ -26,3 +26,10 @@ Pontuação: Uma variável estática inteira currentScore, que é acessada nos s
 https://github.com/user-attachments/assets/76e9f64c-befa-4ccd-9de8-c81481703b1f
 ![Captura de tela 2025-04-07 102306](https://github.com/user-attachments/assets/b473d404-1c67-4ea3-b325-5554719762a5)
 ![Captura de tela 2025-04-07 102321](https://github.com/user-attachments/assets/1a8da13c-49cc-447d-ae83-32ff1430ffb9)
+
+# A Dupla:
+Igor Michelini: <br>
+- Atuou com o desenvolvimento dos codígos. <br>
+  
+Matheus Henrique: <br>
+- Atuou nas mecânicas e escolheu o asset. 
